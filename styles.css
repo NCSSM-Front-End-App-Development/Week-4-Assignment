@@ -12,6 +12,7 @@ body {
     color: #fff;
     margin: 0;
     place-items: center;
+    background-color: #000000;
 }
 .navbar {
     display: flex;
@@ -76,7 +77,7 @@ body {
     margin: 0;
     overflow: hidden;
     align-items: center;
-    position: absolute;
+    position: relative;
     
 }
 #content {
